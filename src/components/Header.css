@@ -1,0 +1,40 @@
+body.div{
+  margin: 0;
+  padding: 0;
+}
+.header{
+  /* margin-top: 25px; */
+  /* margin-bottom: 0px; */
+  /* border: 1px solid red; */
+  color: white;
+  /* background-color: black; */
+  text-align: center;
+  display: flex;
+  justify-content: left;
+}
+.header-header{
+  /* margin-top: 25px; */
+  /* margin-bottom: 0px; */
+  /* border: 1px solid black; */
+  color: white;
+  background-color: black;
+  display: flex;
+
+}
+.header-below{
+  /* border: 1px solid blue; */
+  margin-left: 38%
+}
+.link{
+  /* border: 1px solid red; */
+  color: white;
+  margin-top: 25px;
+  margin-left: 10px;
+  /* background-color: black; */
+
+}
+.heading{
+  justify-content: center;
+    margin: 25px;
+    size: 12px
+}
